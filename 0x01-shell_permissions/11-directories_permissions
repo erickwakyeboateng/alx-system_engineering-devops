@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod a+1 alx-system_engineering-devops
+chmod 1 alx-system_engineering-devops
