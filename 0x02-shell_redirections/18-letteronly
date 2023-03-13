@@ -1,2 +1,2 @@
 #!/bin/bash
-look -i "^[a-z]" /etc/ssh/sshd_config
+look -i "^[a-z,A-Z]" /etc/ssh/sshd_config
