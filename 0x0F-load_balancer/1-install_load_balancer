@@ -13,7 +13,7 @@ frontend maxtamindsolutions.com
     bind 0:80
     default_backend maxtamindsolutions.com_backend
 
-backend maxtasolutions.com_backend
+backend maxtamindsolutions.com_backend
     timeout connect  3000
     timeout server  30000
     balance roundrobin
